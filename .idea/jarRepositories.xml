@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="apache.staging.https" />
+      <option name="name" value="Apache Staging Repository" />
+      <option name="url" value="http://tbdsrepo.oa.com/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tbds_public" />
+      <option name="name" value="tbds_public" />
+      <option name="url" value="https://mirrors.tencent.com/repository/maven/tbds" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tianqiong-releases" />
+      <option name="name" value="tianqiong-releases" />
+      <option name="url" value="https://mirrors.tencent.com/repository/maven/tianqiong-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="http://tbdsrepo.oa.com/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="apache-releases" />
+      <option name="name" value="apache-releases" />
+      <option name="url" value="http://tbdsrepo.oa.com/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tianqiong-snapshots" />
+      <option name="name" value="tianqiong-snapshots" />
+      <option name="url" value="https://mirrors.tencent.com/repository/maven/tianqiong-snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tencent" />
+      <option name="name" value="tencent" />
+      <option name="url" value="http://mirrors.tencent.com/nexus/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="restlet" />
+      <option name="name" value="restlet" />
+      <option name="url" value="https://maven.restlet.talend.com/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tencent-public" />
+      <option name="name" value="tencent-public" />
+      <option name="url" value="https://mirrors.tencent.com/repository/maven/tencent_public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="aliyun" />
+      <option name="name" value="aliyun" />
+      <option name="url" value="https://maven.aliyun.com/repository/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="apache-snapshots" />
+      <option name="name" value="apache-snapshots" />
+      <option name="url" value="https://repository.apache.org/content/repositories/snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven2" />
+      <option name="name" value="maven2" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tbds" />
+      <option name="name" value="tbds" />
+      <option name="url" value="http://tbdsrepo.oa.com/repository/tbds/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tbds-tencent-public" />
+      <option name="name" value="tbds tencent public" />
+      <option name="url" value="http://tbdsrepo.oa.com/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tencent_thirdparty_snapshots" />
+      <option name="name" value="tencent_thirdparty_snapshots" />
+      <option name="url" value="https://mirrors.tencent.com/repository/maven/thirdparty-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="confluent" />
+      <option name="name" value="confluent" />
+      <option name="url" value="https://packages.confluent.io/maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="lakefs" />
+      <option name="name" value="lakefs" />
+      <option name="url" value="https://mirrors.tencent.com/repository/maven/Lakefs-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tencent-public-snapshots" />
+      <option name="name" value="tencent-public-snapshots" />
+      <option name="url" value="https://mirrors.tencent.com/repository/maven/tencent_public_snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tencent_thirdparty" />
+      <option name="name" value="tencent_thirdparty" />
+      <option name="url" value="https://mirrors.tencent.com/repository/maven/thirdparty/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tbds-public" />
+      <option name="name" value="tbds-public" />
+      <option name="url" value="http://tbdsrepo.oa.com/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+  </component>
+</project>
