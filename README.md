@@ -46,6 +46,8 @@
 ```
 
 - 2、session 模式
+
+
 ```shell
 -- 先启动session
 ./bin/kubernetes-session.sh \
@@ -67,4 +69,5 @@
 /opt/flink/examples/streaming/SocketWindowWordCount.jar --hostname 10.1.0.18 --port 9195 \
 --windowSize 2000 --slideSize 10000
 ```
+
 
